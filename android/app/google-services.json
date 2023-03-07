@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979968088675",
+    "project_id": "orange-music-player-32e40",
+    "storage_bucket": "orange-music-player-32e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979968088675:android:b669f5ef89aa0bcf397656",
+        "android_client_info": {
+          "package_name": "com.tochycomputerservices.orangemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979968088675-kvij34shp9sehm6skl0ghcntfoe1b5qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochycomputerservices.orangemusic",
+            "certificate_hash": "3c29d14240958c4f80fb79a7ded81547fb744100"
+          }
+        },
+        {
+          "client_id": "979968088675-8t3cv5apr9dkkgagq5nhit9lrrm5qnv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZaGcm54Dsqh-4aCeqQcy-pcveI1vk7aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979968088675-8t3cv5apr9dkkgagq5nhit9lrrm5qnv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
